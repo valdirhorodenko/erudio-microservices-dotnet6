@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4HnaPfuJ/FmP+szxeZx401Pk0LrirP54gfC1iJKh7lt+2Tn83axIZQNJKAzN1vu9NMlNMizvXaBJKkVp17iwNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\valdi\\Desktop\\projeto\\MicroServices\\RestWhitASPNETUdemy\\RestWhitASPNETUdemy\\RestWhitASPNETUdemy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valdi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\valdi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\valdi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\valdi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\valdi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\valdi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
